@@ -1,0 +1,215 @@
+@media(max-width:426px) {
+    body {
+        overflow-x: hidden;
+    }
+    .handel {
+        display: none;
+    }
+    .oll {
+        display: none;
+    }
+    ul {
+        display: block;
+    }
+    .nav {
+        left: -300%;
+        position: relative;
+    }
+    .cont::before {
+        width: 0px;
+    }
+    .cont::after {
+        display: none;
+    }
+    .logo {
+        left: 0px;
+    }
+    nav::before {
+        width: 30%;
+    }
+    .cont {
+        border: none;
+        top: 0;
+        width: 100%;
+        margin-left: 0;
+    }
+    h5 {
+        left: 53px;
+        font-size: 25px;
+        width: 65%;
+    }
+    h1 {
+        margin-left: 0px;
+        position: relative;
+        right: 0px;
+        left: 40px;
+        font-size: 37px;
+        width: 80%;
+    }
+    .h {
+        font-size: 38px;
+        margin-left: 0px;
+        position: relative;
+        right: 0px;
+        left: 40px;
+    }
+    .p1 {
+        width: 85%;
+        line-height: 30px;
+        margin-left: 0;
+        right: 0px;
+        left: 40px;
+    }
+    .sat {
+        width: 50%;
+        margin-left: 0;
+        position: relative;
+        right: 0px;
+        left: 40px;
+    }
+    .server {
+        display: block;
+        margin-left: 0;
+    }
+    .second {
+        height: 280vh;
+    }
+    .abm1 {
+        width: 400px;
+        height: ;
+        left: 0;
+    }
+    .about {
+        height: 190vh;
+    }
+    .h61 {
+        right: 0;
+    }
+    #pa {
+        right: 190px;
+        bottom: 0;
+        top: 500px;
+        font-size: 30px;
+        width: 370px;
+    }
+    .pa2 {
+        right: 190px;
+        bottom: 0;
+        top: 480px;
+        width: 400px;
+    }
+    .btn-about {
+        width: 70%;
+        top: 460px;
+        right: 200px;
+    }
+    .abp3 {
+        top: 350px;
+    }
+    .web {
+        width: 400px;
+        top: 360px;
+        font-size: 50px;
+    }
+    .work {
+        height: 350vh;
+    }
+    .wor {
+        display: block;
+        margin-left: 0;
+    }
+    h2 {
+        left: 20px;
+        width: 330px;
+    }
+    .f1 {
+        margin-left: 0px;
+        width: 368px;
+    }
+    .from {
+        height: 107vh;
+    }
+    .f2 {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .f3 {
+        font-size: 30px;
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+    #name {
+        width: 30%;
+        position: relative;
+        left: 10px;
+    }
+    #last {
+        width: 30%;
+        position: relative;
+        left: 40px;
+    }
+    #sub {
+        left: 20px;
+        width: 30%;
+    }
+    #phone {
+        left: 40px;
+        width: 30%;
+    }
+    #em {
+        left: 6px;
+    }
+    #wr {
+        left: 14px;
+    }
+    #bt {
+        width: 40%;
+    }
+    .im1 {
+        width: 350px;
+    }
+    .s1 {
+        width: 350px;
+        margin-bottom: 20px;
+        margin-left: 13px;
+    }
+    .pj {
+        display: block;
+        margin-left: 0px;
+    }
+    .pj1 {
+        margin-top: 0;
+    }
+    section {
+        height: 270vh;
+    }
+    footer {
+        height: 200vh;
+    }
+    .foo {
+        display: block;
+    }
+    .fa1 {
+        margin-top: 0px;
+        border: 2px;
+        border: 2px solid
+    }
+    .nm1 {
+        width: 100px;
+        display: none;
+    }
+    .abp2 {
+        position: relative;
+        bottom: 120px;
+        left: 80px;
+    }
+    .fa1 p {
+        width: 200px;
+    }
+    .fa1 h1 {
+        margin-left: 0;
+        width: 300px;
+        left: 130px;
+    }
+}

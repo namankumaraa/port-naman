@@ -194,6 +194,7 @@ h1 {
     margin-top: 30px;
     font-family: 'Arial', sans-serif;
     gap: 30px;
+    position: relative;
 }
 
 .sat {
