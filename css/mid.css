@@ -1,0 +1,265 @@
+@media(max-width:378px) {
+    body {
+        overflow-x: hidden;
+    }
+    .handel {
+        display: none;
+    }
+    .oll {
+        display: none;
+    }
+    .server {
+        display: block;
+        margin-left: 0px;
+    }
+    ul {
+        display: block;
+    }
+    .cont {
+        margin-left: 0px;
+    }
+    h1 {
+        margin-left: 0px;
+        font-size: 20px;
+    }
+    .im1 {
+        width: 350px;
+    }
+    .s1 {
+        width: 350px;
+        margin-bottom: 20px;
+        margin-left: 13px;
+    }
+    .second {
+        height: 1700px;
+    }
+    .nav {
+        left: -300%;
+        position: relative;
+    }
+    .cont::before {
+        width: 0px;
+    }
+    .cont::after {
+        display: none;
+    }
+    .logo {
+        left: 0px;
+    }
+    nav::before {
+        width: 30%;
+    }
+    .cont {
+        border: none;
+        top: 0;
+        width: 100%;
+    }
+    h5 {
+        right: 30px;
+        font-size: 25px;
+        width: 85%;
+    }
+    h1 {
+        margin-left: 50px;
+        font-size: 40px;
+    }
+    .h {
+        font-size: 38px;
+    }
+    .p1 {
+        width: 85%;
+        line-height: 30px;
+    }
+    .sat {
+        width: 50%;
+    }
+    .check {
+        background-image: url(../img/a.jpg);
+        background-size: cover;
+    }
+    h2 {
+        margin-left: 10px;
+    }
+    h3::before {
+        right: 16px;
+        width: 320px;
+    }
+    .about {
+        height: 190vh;
+    }
+    .abm1 {
+        width: 330px;
+        height: 400px;
+        position: relative;
+        top: 70px;
+        left: 17px;
+    }
+    .abm2 {
+        width: 70px;
+        height: 70px;
+        position: relative;
+        bottom: 350px;
+        right: 0px;
+    }
+    .h61 {
+        position: relative;
+        right: 0px;
+    }
+    #pa {
+        position: relative;
+        bottom: 0px;
+        top: 360px;
+        right: 150px;
+        font-size: 29px;
+        width: 300px;
+    }
+    .pa2 {
+        position: relative;
+        right: 155px;
+        bottom: 0px;
+        top: 350px;
+        width: 300px;
+        font-size: 18px;
+    }
+    .abp2 {
+        position: relative;
+        bottom: 120px;
+        left: 80px;
+    }
+    .web {
+        font-size: 30px;
+        width: 270px;
+        position: relative;
+        top: 290px;
+        right: 340px;
+    }
+    .abp3 {
+        position: relative;
+        top: 200px;
+        left: 190px;
+    }
+    .btn-about {
+        width: 70%;
+        height: 60px;
+        position: relative;
+        top: 320px;
+        right: 160px;
+    }
+    .wor {
+        display: block;
+        margin-left: 0px;
+    }
+    .work {
+        height: 330vh;
+    }
+    h2 {
+        left: 20px;
+        width: 330px;
+    }
+    .pro {
+        width: 100%;
+    }
+    .f1 {
+        margin-left: 0px;
+        width: 368px;
+    }
+    .f2 {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .f3 {
+        font-size: 30px;
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+    #name {
+        width: 30%;
+        position: relative;
+        left: 10px;
+    }
+    #last {
+        width: 30%;
+        position: relative;
+        left: 40px;
+    }
+    #sub {
+        left: 20px;
+        width: 30%;
+    }
+    #phone {
+        left: 40px;
+        width: 30%;
+    }
+    #em {
+        left: 6px;
+    }
+    #wr {
+        left: 14px;
+    }
+    #bt {
+        width: 40%;
+    }
+    .pj {
+        display: block;
+        margin-left: 0px;
+    }
+    .pj1 {
+        margin-top: 0;
+    }
+    section {
+        height: 270vh;
+    }
+    footer {
+        height: 200vh;
+    }
+    .foo {
+        display: block;
+    }
+    .fa1 {
+        margin-top: 0px;
+        border: 2px;
+        border: 2px solid
+    }
+    .nm1 {
+        width: 100px;
+        display: none;
+    }
+    .fa1 p {
+        width: 200px;
+    }
+}
+
+
+/*  */
+
+@media(max-width:321px) {
+    .s1 {
+        width: 320px;
+        margin-left: 0px;
+    }
+    .im1 {
+        width: 320px;
+    }
+    .abm1 {
+        left: 0px;
+        width: 306px;
+    }
+    h2 {
+        left: 0px;
+        width: 310px;
+    }
+    .fa1 p {
+        width: 180px;
+        left: 119px;
+    }
+    .check {
+        height: 105vh;
+    }
+    .btn-about {
+        right: 150px;
+    }
+    #sub {
+        left: 10px;
+    }
+}
