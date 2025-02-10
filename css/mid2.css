@@ -75,9 +75,11 @@
         height: 280vh;
     }
     .abm1 {
-        width: 400px;
-        height: ;
-        left: 0;
+        width: 330px;
+        height: 400px;
+        position: relative;
+        top: 70px;
+        left: 40px;
     }
     .about {
         height: 190vh;
@@ -86,30 +88,44 @@
         right: 0;
     }
     #pa {
-        right: 190px;
-        bottom: 0;
-        top: 500px;
-        font-size: 30px;
-        width: 370px;
+        position: relative;
+        bottom: 0px;
+        top: 360px;
+        right: 150px;
+        font-size: 29px;
+        width: 300px;
     }
     .pa2 {
-        right: 190px;
-        bottom: 0;
-        top: 480px;
-        width: 400px;
+        position: relative;
+        right: 155px;
+        bottom: 0px;
+        top: 350px;
+        width: 300px;
+        font-size: 18px;
+    }
+    .abp2 {
+        position: relative;
+        bottom: 120px;
+        left: 80px;
     }
     .btn-about {
         width: 70%;
-        top: 460px;
-        right: 200px;
+        height: 60px;
+        position: relative;
+        top: 320px;
+        right: 160px;
     }
     .abp3 {
-        top: 350px;
+        position: relative;
+        top: 200px;
+        left: 190px;
     }
     .web {
-        width: 400px;
-        top: 360px;
-        font-size: 50px;
+        font-size: 30px;
+        width: 270px;
+        position: relative;
+        top: 290px;
+        right: 340px;
     }
     .work {
         height: 350vh;
@@ -120,11 +136,15 @@
     }
     h2 {
         left: 20px;
-        width: 330px;
+        width: 380px;
+        font-size: 23px;
+    }
+    .pro {
+        width: 100%;
     }
     .f1 {
         margin-left: 0px;
-        width: 368px;
+        width: 368px
     }
     .from {
         height: 107vh;
@@ -211,5 +231,8 @@
         margin-left: 0;
         width: 300px;
         left: 130px;
+    }
+    .step {
+        width: 36%;
     }
 }
