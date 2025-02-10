@@ -34,7 +34,7 @@
         margin-left: 0;
     }
     h5 {
-        left: 53px;
+        left: 40px;
         font-size: 25px;
         width: 65%;
     }
@@ -72,7 +72,7 @@
         margin-left: 0;
     }
     .second {
-        height: 280vh;
+        height: 250vh;
     }
     .abm1 {
         width: 330px;
@@ -82,7 +82,7 @@
         left: 30px;
     }
     .about {
-        height: 190vh;
+        height: 170vh;
     }
     .h61 {
         right: 0;
@@ -90,7 +90,7 @@
     #pa {
         position: relative;
         bottom: 0px;
-        top: 360px;
+        top: 300px;
         right: 150px;
         font-size: 29px;
         width: 300px;
@@ -99,45 +99,55 @@
         position: relative;
         right: 155px;
         bottom: 0px;
-        top: 350px;
+        top: 290px;
         width: 300px;
         font-size: 18px;
     }
     .abp2 {
         position: relative;
-        bottom: 120px;
+        bottom: 90px;
         left: 80px;
     }
     .btn-about {
         width: 70%;
         height: 60px;
         position: relative;
-        top: 320px;
+        top: 260px;
         right: 160px;
     }
     .abp3 {
         position: relative;
-        top: 200px;
+        top: 130px;
         left: 190px;
+    }
+    .abm2 {
+        width: 70px;
+        height: 70px;
+        position: relative;
+        bottom: 350px;
+        right: 0px;
     }
     .web {
         font-size: 30px;
         width: 270px;
         position: relative;
-        top: 290px;
+        top: 150px;
         right: 340px;
     }
     .work {
-        height: 350vh;
+        height: 304vh;
     }
     .wor {
         display: block;
         margin-left: 0;
     }
     h2 {
-        left: 20px;
+        left: 9px;
         width: 380px;
         font-size: 23px;
+    }
+    h3::before {
+        right: 0;
     }
     .pro {
         width: 100%;
@@ -192,7 +202,7 @@
     .s1 {
         width: 350px;
         margin-bottom: 20px;
-        margin-left: 13px;
+        margin-left: 35px;
     }
     .pj {
         display: block;
@@ -229,7 +239,7 @@
     }
     .fa1 h1 {
         margin-left: 0;
-        width: 300px;
+        width: 250px;
         left: 130px;
     }
     .step {
