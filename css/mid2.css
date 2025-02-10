@@ -78,19 +78,20 @@
         width: 330px;
         height: 400px;
         position: relative;
-        top: 70px;
+        top: 37px;
         left: 30px;
     }
     .about {
-        height: 170vh;
+        height: 150vh;
     }
     .h61 {
         right: 0;
+        bottom: 25px;
     }
     #pa {
         position: relative;
         bottom: 0px;
-        top: 300px;
+        top: 260px;
         right: 150px;
         font-size: 29px;
         width: 300px;
@@ -99,39 +100,40 @@
         position: relative;
         right: 155px;
         bottom: 0px;
-        top: 290px;
+        top: 230px;
         width: 300px;
         font-size: 18px;
     }
     .abp2 {
         position: relative;
-        bottom: 90px;
+        bottom: 190px;
         left: 80px;
     }
     .btn-about {
         width: 70%;
-        height: 60px;
+        height: 40px;
         position: relative;
-        top: 260px;
+        top: 167px;
         right: 160px;
     }
     .abp3 {
         position: relative;
-        top: 130px;
+        top: 60px;
         left: 190px;
     }
     .abm2 {
         width: 70px;
         height: 70px;
         position: relative;
-        bottom: 350px;
+        bottom: 378px;
         right: 0px;
+        left: 4px;
     }
     .web {
         font-size: 30px;
         width: 270px;
         position: relative;
-        top: 150px;
+        top: 55px;
         right: 340px;
     }
     .work {
@@ -202,7 +204,7 @@
     .s1 {
         width: 350px;
         margin-bottom: 20px;
-        margin-left: 35px;
+        margin-left: 20px;
     }
     .pj {
         display: block;
@@ -229,11 +231,11 @@
         width: 100px;
         display: none;
     }
-    .abp2 {
+    /* .abp2 {
         position: relative;
         bottom: 120px;
         left: 80px;
-    }
+    } */
     .fa1 p {
         width: 200px;
     }
